@@ -7,8 +7,3 @@
 #   "First: Pizza"
 #   "Last: Ice Cream"
 #
-
-foods = ["Pizza", "Burger", "Ice Cream"]
-
-puts "First: #{foods.first}"
-puts "Last: #{foods.last}"

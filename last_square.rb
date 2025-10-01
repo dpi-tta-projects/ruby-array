@@ -12,5 +12,3 @@
 #
 
 numbers = [2, 4, 6]
-
-puts "Square of last: #{numbers.last ** 2}"

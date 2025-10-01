@@ -8,5 +8,3 @@
 #
 
 groceries = ["Milk", "Eggs", "Bread", "Butter"]
-
-puts "Total items: #{groceries.count}"

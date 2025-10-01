@@ -11,11 +11,3 @@
 #   Last: Interstellar
 #   Total movies: 4
 #
-
-movies = ["Inception", "The Matrix", "Spirited Away"]
-
-movies.push("Interstellar")
-
-puts "First: #{movies.first}"
-puts "Last: #{movies.last}"
-puts "Total movies: #{movies.count}"

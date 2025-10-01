@@ -17,24 +17,12 @@
 
 temperatures = [72, 68, 74, 79, 65, 70]
 
-# 1. How many temperatures?
-puts "#{temperatures.count} temperatures recorded"
+# TODO: How many temperatures?
 
-# 2. Highest and lowest
-puts "Highest: #{temperatures.max}"
-puts "Lowest: #{temperatures.min}"
+# TODO: Highest 
 
-# 3. Average
-average = temperatures.sum.to_f / temperatures.count
-puts "Average: #{average.round(2)}"
+# TODO: Lowest
 
-# 4. Compare last temp to average
-last = temperatures.last
+# TODO: Average
 
-if last > average
-  puts "The last recorded temperature (#{last}) is above the average."
-elsif last < average
-  puts "The last recorded temperature (#{last}) is below the average."
-else
-  puts "The last recorded temperature (#{last}) is exactly the average."
-end
+# TODO: Compare last temp to average

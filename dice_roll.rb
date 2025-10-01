@@ -8,5 +8,3 @@
 #
 
 dice = [1, 2, 3, 4, 5, 6]
-
-puts "You rolled a #{dice.sample}"
